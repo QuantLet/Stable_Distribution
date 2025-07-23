@@ -8,6 +8,6 @@ Keywords : 'Stable distribution, Value-at-risk, Expected shortfall, Skewness'
 
 See also : 'SFM'
 
-Author : 'Rahul Tak', 'Daniel Traian Pele'
+Author : 'Rahul Tak', 'Stefan Gaman', 'Daniel Traian Pele'
 
 Submitted : '23 July 2025'
