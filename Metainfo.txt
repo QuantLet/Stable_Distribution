@@ -1,0 +1,13 @@
+Name of QuantLet : 'Stable_Distribution'
+
+Published in : 'Statistics of Financial Markets'
+
+Description : 'Illustrations and applications of different types of stable distributions'
+
+Keywords : 'Stable distribution, Value-at-risk, Expected shortfall, Skewness'
+
+See also : 'SFM'
+
+Author : 'Rahul Tak', 'Daniel Traian Pele'
+
+Submitted : '23 July 2025'
